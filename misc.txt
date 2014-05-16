@@ -2,3 +2,8 @@ void misc()
 {
 	printf("Things and Stuffs....");
 }
+
+void misc2()
+{
+	;
+}
