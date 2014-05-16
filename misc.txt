@@ -1,0 +1,4 @@
+void misc()
+{
+	printf("Things and Stuffs....");
+}
